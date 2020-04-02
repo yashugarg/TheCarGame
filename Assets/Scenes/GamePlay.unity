@@ -1049,7 +1049,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77916ea3fb6ffe54e9b78f80ab848f8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 3338555147272745213}
   ScoreCard: {fileID: 572160795}
 --- !u!1 &581426378
 GameObject:
@@ -1198,7 +1198,7 @@ PrefabInstance:
     - target: {fileID: 4794629866316138324, guid: a533b1697f38a244db495afbd18199c0,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4794629866316138324, guid: a533b1697f38a244db495afbd18199c0,
         type: 3}
@@ -2125,7 +2125,7 @@ PrefabInstance:
     - target: {fileID: 4794629866316138324, guid: a533b1697f38a244db495afbd18199c0,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4794629866316138324, guid: a533b1697f38a244db495afbd18199c0,
         type: 3}
